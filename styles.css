@@ -1,1 +1,48 @@
 /* Write your CSS here! */
+article{
+    font-size: 14pt;
+    font-family:'Courier New', Courier, monospace,monospace;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+body{
+    margin: 8px;
+    background-color: aqua;
+}
+#mainHeading {
+   color: red;
+   font-size: 16pt;
+   font-family:'Courier New', Courier, monospace,monospace;
+   font-weight: bold;
+   margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+.funParagraph{
+    color:green;
+    text-indent: 10%;
+    text-align: center;
+   background-color: white;
+}
+h2 {
+    font-weight: bold;
+    color: white;
+}
+p{
+    text-indent: 10%;
+    text-align: center;
+    background-color: white;
+
+}
